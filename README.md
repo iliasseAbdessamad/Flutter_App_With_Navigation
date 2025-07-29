@@ -23,10 +23,10 @@ aux différentes sections de l’application :
 </thead>
 <tbody>
 <tr>
-<th><img src="./imgs/screen1.png" alt="Menu Drawer" /></th>
-<th><img src="./imgs/screen2.png" alt="Page Counter" /></th>
-<th><img src="./imgs/screen3.png" alt="Page Contact" /></th>
-<th><img src="./imgs/screen2.png" alt="Page Galerie" /></th>
+<th><img src="./imgs/menu.png" alt="Menu Drawer" /></th>
+<th><img src="./imgs/counter.png" alt="Page Counter" /></th>
+<th><img src="./imgs/contact.png" alt="Page Contact" /></th>
+<th><img src="./imgs/gallery.png" alt="Page Galerie" /></th>
 </tr>
 </tbody>
 </table>
