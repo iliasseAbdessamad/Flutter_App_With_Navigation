@@ -34,8 +34,8 @@ aux différentes sections de l’application :
 <hr />
 <br />
 <ul>
-<li><b>Réalisé par : </b>Iliasse Abdessamad</li>
-<li><b>Sujet : </b>Développement Mobile via le Framework Flutter</li>
-<li><b>Année : </b>2024 - 2025</li>
+<li>🧑 <b>Réalisé par : </b>Iliasse Abdessamad</li>
+<li>📖 <b>Sujet : </b>Développement Mobile via le Framework Flutter</li>
+<li>📅 <b>Année : </b>2024 - 2025</li>
 </ul>
 
