@@ -6,7 +6,7 @@ class ContactsPage extends StatelessWidget {
     {
       'name': 'Yassine Moussa',
       'email': 'yassine@gmail.com',
-      'phone': '0611223355'
+      'phone': '0611223344'
     },
     {
       'name': 'Asmae Marwa',
